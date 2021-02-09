@@ -1,0 +1,6 @@
+[submodule "picoctf"]
+	path = picoctf
+	url = https://github.com/Chatyusha/picoctf.git
+[submodule "cpawCTF"]
+	path = cpawCTF
+	url = https://github.com/Chatyusha/cpawCTF_Chatyusha.git
